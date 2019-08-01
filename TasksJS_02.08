@@ -30,14 +30,14 @@
     }
     
     
- 3)https://www.codewars.com/kata/dna-to-rna-conversion/train/javascript?fbclid=IwAR27r_RIUOTc17s7CjvQ8G3XrYqilwgk38sXaGgv6QClVlc3dPHavG-IXKg   
+3)https://www.codewars.com/kata/dna-to-rna-conversion/train/javascript?fbclid=IwAR27r_RIUOTc17s7CjvQ8G3XrYqilwgk38sXaGgv6QClVlc3dPHavG-IXKg   
     
     function DNAtoRNA(dna) {
     return dna.replace(/T/g, "U");// create a function which returns an RNA sequence from the given DNA sequence
     }
     
     
- 4)https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/train/javascript?fbclid=IwAR2Q2pJhqC-M2eeVay9fAGWbKk-6YGywKvWqz3RlNASmuhu5tfYGGXht1-w
+4)https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/train/javascript?fbclid=IwAR2Q2pJhqC-M2eeVay9fAGWbKk-6YGywKvWqz3RlNASmuhu5tfYGGXht1-w
    
     class SmallestIntegerFinder {
     findSmallestInt(args) {
