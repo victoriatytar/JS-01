@@ -37,9 +37,9 @@
     }
     
     
-  4)https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/train/javascript?fbclid=IwAR2Q2pJhqC-M2eeVay9fAGWbKk-6YGywKvWqz3RlNASmuhu5tfYGGXht1-w
+ 4)https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/train/javascript?fbclid=IwAR2Q2pJhqC-M2eeVay9fAGWbKk-6YGywKvWqz3RlNASmuhu5tfYGGXht1-w
    
-   class SmallestIntegerFinder {
+    class SmallestIntegerFinder {
     findSmallestInt(args) {
     return Math.min.apply(null, args);
         }
